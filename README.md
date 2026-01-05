@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ramish-khan204/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ramish-khan204/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ramish-khan204/DSA/tree/master/0035-search-insert-position) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ramish-khan204/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/ramish-khan204/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/ramish-khan204/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ramish-khan204/DSA/tree/master/0704-binary-search) |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ramish-khan204/DSA/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ramish-khan204/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ramish-khan204/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
