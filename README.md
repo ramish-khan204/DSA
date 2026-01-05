@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramish-khan204/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ramish-khan204/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/ramish-khan204/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
