@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ramish-khan204/DSA/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ramish-khan204/DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ramish-khan204/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
