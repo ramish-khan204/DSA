@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/ramish-khan204/DSA/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/ramish-khan204/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/ramish-khan204/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/ramish-khan204/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ramish-khan204/DSA/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/ramish-khan204/DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
