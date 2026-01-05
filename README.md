@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/ramish-khan204/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ramish-khan204/DSA/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/ramish-khan204/DSA/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/ramish-khan204/DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
