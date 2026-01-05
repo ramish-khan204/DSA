@@ -18,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ramish-khan204/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ramish-khan204/DSA/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ramish-khan204/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/ramish-khan204/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
